@@ -1,8 +1,10 @@
-### Hi there 👋
+### [John ray][website] 👋
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/johnray000/johnray000?style=for-the-badge)](https://github.com/johnray000/johnray000)
 
 **johnray000/johnray000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... PROBANDO CAMBIOS
 
+
+<!--Links -->
+[website]:https://john-ray.notion.site/Plan-de-Acci-n-5a88c58e7b2d4c0ca0e14ee8a635490e/
